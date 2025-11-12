@@ -1,0 +1,34 @@
+[
+  {
+    "id": "sample-1",
+    "title": "Morning workout",
+    "notes": "30 minutes cardio + stretching",
+    "dueDate": "2025-01-13",
+    "dueTime": "07:00",
+    "priority": "high",
+    "completed": false,
+    "createdAt": "2025-01-13T00:00:00.000Z",
+    "updatedAt": "2025-01-13T00:00:00.000Z"
+  },
+  {
+    "id": "sample-2",
+    "title": "Team meeting",
+    "notes": "Discuss Q1 goals",
+    "dueDate": "2025-01-13",
+    "dueTime": "10:00",
+    "priority": "medium",
+    "completed": false,
+    "createdAt": "2025-01-13T00:00:00.000Z",
+    "updatedAt": "2025-01-13T00:00:00.000Z"
+  },
+  {
+    "id": "sample-3",
+    "title": "Buy groceries",
+    "notes": "Milk, eggs, bread, vegetables",
+    "dueDate": "2025-01-13",
+    "priority": "low",
+    "completed": false,
+    "createdAt": "2025-01-13T00:00:00.000Z",
+    "updatedAt": "2025-01-13T00:00:00.000Z"
+  }
+]
